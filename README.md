@@ -1,6 +1,6 @@
 ## Lavalink On Railways
 
-Special Thanks to [Kagchi](https://github.com/KagChi/lavalink-railways) :D.
+Special Thanks to [Kagchi](https://github.com/KagChi/lavalink-railways) :D
 
 ___
 
